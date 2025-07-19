@@ -1,2 +1,2 @@
 # learning-github
-this is first repository <br> <div>Author - Vadthyavath sriram<div>
+this is first repository <br> Author - Vadthyavath sriram
